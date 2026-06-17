@@ -1,0 +1,8 @@
+.cache/
+.cargo/
+.gitconfig
+.lesshst
+.python_history
+.sqlite_history
+.ssh/
+.termux/
